@@ -1,0 +1,25 @@
+text Model Link:
+https://drive.google.com/file/d/1q6gM8oNUQKc_waQ3PQpYrc3xtvJ6bIYi/view?usp=sharing
+
+Training text data set link:
+https://drive.google.com/file/d/1GQDHAFEEhyrAQg82wSfsBkBZrrIKjR9P/view?usp=sharing
+
+Testing text data set link:
+https://drive.google.com/file/d/1Rh9oNWhFx6YS0r_5CuRDB1l-5W5Vw9g_/view?usp=sharing
+
+audio model data set:
+
+https://drive.google.com/drive/folders/1Z_P_6TX7NgJmUNe9sNHSrJMQZPE3w9BP?usp=sharing
+
+templates folder links:
+
+https://drive.google.com/drive/folders/1hUIKxGMFrrtPrsoZ5j6oQe0MUD7SuU8S?usp=sharing
+
+pycashe folder link:
+https://drive.google.com/drive/folders/1r1wwaGcNiCzOZYN9Y6Mu96NsN_c-EPH3?usp=sharing
+
+.vscode folder link:
+
+https://drive.google.com/drive/folders/12ySrTummAOA3LxHeMiAXBYGoIO2cPuab?usp=sharing
+
+# these folders was too big to upload on github so i added the drives link
